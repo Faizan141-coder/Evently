@@ -32,7 +32,7 @@ const Dropdown = ({ value, onChangeHandler }: DropdownProps) => {
     const [newCategory, setNewCategory] = useState('')
 
     const handleAddCategory = () => {
-
+        
     }
 
     return (
